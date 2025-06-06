@@ -3,10 +3,9 @@
 
 - 🔭 I’m currently working on **Striver’s A2Z DSA Sheet and AI Agent projects**
 - 🌱 I’m learning **DSA, Machine Learning, Generative AI, and Django**
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/akshaykumar)
-- 📝 I regularly write about tech and security at [My LinkedIn](https://linkedin.com/in/your-profile)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/n200534)
 - 💬 Ask me about **Python, FastAPI, AI agents, React, and Cloud**
-- 📫 How to reach me: **youremail@example.com**
+- 📫 How to reach me: **amavarapuakshaykumar@gmail.com**
 - ⚡ Fun fact: I'm building CodeCollab — an AI dev team platform!
 
 ---
@@ -20,6 +19,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaykumar&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=n200534&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n200534&theme=radical" />
 </p>
